@@ -30,7 +30,7 @@ class String
     array = []
     array.push << self.split(".","!","?")
     array.cound
-    
+
 
   end
 end
